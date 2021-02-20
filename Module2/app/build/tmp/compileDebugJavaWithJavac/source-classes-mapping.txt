@@ -1,0 +1,12 @@
+com/example/module2/RegisterActivity.java
+ com.example.module2.RegisterActivity
+ com.example.module2.RegisterActivity$1
+ com.example.module2.RegisterActivity$2
+com/example/module2/BuildConfig.java
+ com.example.module2.BuildConfig
+com/example/module2/API.java
+ com.example.module2.API
+com/example/module2/MainActivity.java
+ com.example.module2.MainActivity
+ com.example.module2.MainActivity$1
+ com.example.module2.MainActivity$2

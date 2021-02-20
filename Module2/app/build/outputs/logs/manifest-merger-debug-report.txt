@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba144db19845ffa798892b420908e937/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de760df2a3e8ead0b16c80e9479b3173/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6cefb4aef8b9e9eaec893f1fcf96838e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba8d2056a4b938add1cb444795fbf00a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/291bac5e8c4bfb7961563d45751f78af/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6e0bfb74c05ec9c13e2dadd72a024b2c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/172e44de4960680b4a6d38c03e420536/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e16b02509f50d05241ee00f9fd2c876d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/1eac1bd1a25e84f3267ff2e205f5f017/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/61b8ae5378c56c187b537949700b1e48/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/a6544b0f27ac45250b39dde889e94570/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e93b5058f82ceee9cb2d3b895a8fc29b/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/f427f05b6d07c6fe2559d40557d2aa8e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/43d2c906b73b9b71ff8b1e8d76f5a200/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/52e54b26723fa6e284c700ec5b3807a5/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/8a6ceb1372a710325162b7f1a7075602/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/949956aa82621713c26c11e7f3d82626/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/cd5a3dc8dd82eb76612b950ef2314d99/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/466ea2289e77ff5b812868f1ae95bd6b/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/24c8e698acf5068bf9736abf3cce95c5/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/627ce2df1876676c30bc33db7eb2d55f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ce3988e525b96d2d4422213a38f9fe0e/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de67d364d206f737f6add3c107c3ea49/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/79dce84f8ea8cac33c2dd04d1cdb0dff/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/75729a682235556b496cdfc9d64b9ca3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/3dd3d6e4d02b80611061be663eb598a3/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/7061ec8e21754f96dd6708819402d227/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/094a811f30951b08caa7b2d63924865d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba144db19845ffa798892b420908e937/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba144db19845ffa798892b420908e937/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de760df2a3e8ead0b16c80e9479b3173/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de760df2a3e8ead0b16c80e9479b3173/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba8d2056a4b938add1cb444795fbf00a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba8d2056a4b938add1cb444795fbf00a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/627ce2df1876676c30bc33db7eb2d55f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/627ce2df1876676c30bc33db7eb2d55f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:11:9-45
+activity#com.example.module2.RegisterActivity
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:12:9-63
+	android:name
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:12:19-51
+activity#com.example.module2.MainActivity
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba144db19845ffa798892b420908e937/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba144db19845ffa798892b420908e937/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.material:material:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de760df2a3e8ead0b16c80e9479b3173/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de760df2a3e8ead0b16c80e9479b3173/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6cefb4aef8b9e9eaec893f1fcf96838e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6cefb4aef8b9e9eaec893f1fcf96838e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba8d2056a4b938add1cb444795fbf00a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ba8d2056a4b938add1cb444795fbf00a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/291bac5e8c4bfb7961563d45751f78af/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/291bac5e8c4bfb7961563d45751f78af/jetified-core-ktx-1.5.0-beta01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6e0bfb74c05ec9c13e2dadd72a024b2c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/6e0bfb74c05ec9c13e2dadd72a024b2c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/172e44de4960680b4a6d38c03e420536/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/172e44de4960680b4a6d38c03e420536/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e16b02509f50d05241ee00f9fd2c876d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e16b02509f50d05241ee00f9fd2c876d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/1eac1bd1a25e84f3267ff2e205f5f017/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/1eac1bd1a25e84f3267ff2e205f5f017/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/61b8ae5378c56c187b537949700b1e48/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/61b8ae5378c56c187b537949700b1e48/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/a6544b0f27ac45250b39dde889e94570/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/a6544b0f27ac45250b39dde889e94570/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e93b5058f82ceee9cb2d3b895a8fc29b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/e93b5058f82ceee9cb2d3b895a8fc29b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/f427f05b6d07c6fe2559d40557d2aa8e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/f427f05b6d07c6fe2559d40557d2aa8e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/43d2c906b73b9b71ff8b1e8d76f5a200/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/43d2c906b73b9b71ff8b1e8d76f5a200/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/52e54b26723fa6e284c700ec5b3807a5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/52e54b26723fa6e284c700ec5b3807a5/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/8a6ceb1372a710325162b7f1a7075602/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/8a6ceb1372a710325162b7f1a7075602/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/949956aa82621713c26c11e7f3d82626/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/949956aa82621713c26c11e7f3d82626/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/cd5a3dc8dd82eb76612b950ef2314d99/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/cd5a3dc8dd82eb76612b950ef2314d99/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/466ea2289e77ff5b812868f1ae95bd6b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/466ea2289e77ff5b812868f1ae95bd6b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/24c8e698acf5068bf9736abf3cce95c5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/24c8e698acf5068bf9736abf3cce95c5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-beta01] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/92fca6fbe728ede2c76ba4ee847d1b7e/core-1.5.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/627ce2df1876676c30bc33db7eb2d55f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/627ce2df1876676c30bc33db7eb2d55f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ce3988e525b96d2d4422213a38f9fe0e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/ce3988e525b96d2d4422213a38f9fe0e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de67d364d206f737f6add3c107c3ea49/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/de67d364d206f737f6add3c107c3ea49/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/79dce84f8ea8cac33c2dd04d1cdb0dff/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/79dce84f8ea8cac33c2dd04d1cdb0dff/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/75729a682235556b496cdfc9d64b9ca3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/75729a682235556b496cdfc9d64b9ca3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/3dd3d6e4d02b80611061be663eb598a3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/3dd3d6e4d02b80611061be663eb598a3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/7061ec8e21754f96dd6708819402d227/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/7061ec8e21754f96dd6708819402d227/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/094a811f30951b08caa7b2d63924865d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hoichunyip/.gradle/caches/transforms-2/files-2.1/094a811f30951b08caa7b2d63924865d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoichunyip/Module-2/Module2/app/src/main/AndroidManifest.xml
